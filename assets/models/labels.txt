@@ -1,0 +1,4 @@
+Tanah_Aluvial
+Tanah_Hitam
+Tanah_Laterit
+Tanah_Merah
